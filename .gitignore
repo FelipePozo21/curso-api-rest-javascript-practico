@@ -131,4 +131,4 @@ dist
 
 
 # api.js
-scr/api.js
+./scr/api-key.js
